@@ -3,3 +3,5 @@ This is my contact files, it is like other files, but has different text
 Changes made
 
 Wait, there more changes!?
+
+And another change
